@@ -4,6 +4,7 @@ var FaceOils =[
         name:"The Ordinary",
         name2:"100% Organic Cold-Pressed Rose Hip Seed Oil",
         price:10,
+        about:"A daily support formula with 100 percent high-purity, sustainably sourced, organic, cold-pressed rose hip seed oil." 
      },
      {
      
@@ -11,6 +12,7 @@ var FaceOils =[
             name:"Youth To The People",
             name2:"Superberry Hydrate + Glow Dream Oil",
             price:44,
+            about:"A fast-absorbing facial oil packed with rare superberry antioxidants for rapid hydration and velvety-soft skin with a healthy-looking glow." 
             
      },
      {
@@ -19,6 +21,7 @@ var FaceOils =[
             name:"Summer Fridays",
             name2:"Heavenly Sixteen All-In-One Face Oil",
             price:45, 
+            about:"A restorative blend of 16 non-comedogenic, vegan oils to intensely condition, visibly plump, and boost the look of skin’s elasticity." 
         },
         {
      
@@ -26,6 +29,7 @@ var FaceOils =[
             name:"Drunk Elephant",
             name2:"Virgin Marula Luxury  Face Oil",
             price:68,
+            about:"A face oil rich in critical antioxidants and omegas 6 and 9 that moisturizes, nourishes, and visibly balances while restoring a youthful-looking glow.", 
            
         },
         {
@@ -34,6 +38,7 @@ var FaceOils =[
             name:"The Ordinary",
             name2:"B Oil",
             price:68,
+            about:"A bestselling hydrating vitamin C oil for all skin types that visibly brightens and firms, revealing your most radiant-looking skin." 
      
             },
             {
@@ -42,6 +47,7 @@ var FaceOils =[
                 name:"Farmacy",
                 name2:"Honey Grail Ultra-Hydrating Face Oil",
                 price:48, 
+                about:"A nourishing formula that contains a blend of oils to fight dehydration and signs of aging, while providing antioxidant and healthy skin support.",
           },
  ]; 
  localStorage.setItem("nutArr", JSON.stringify("FaceOils"));

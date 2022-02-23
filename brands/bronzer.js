@@ -5,6 +5,7 @@ var brozerArr =[
        name2:" Warm Wishes Effortless Bronzer Sticks",
        color:"6 colors",
        price:23,
+       about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
     },
     {
     
@@ -13,6 +14,7 @@ var brozerArr =[
            name2:"Matte Cream Bronzer Stick",
            color:"2 colors",
            price:21,
+           about:"hA talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
            
     },
     {
@@ -22,6 +24,7 @@ var brozerArr =[
            name2:"Hoola Bronzer",
            color:"6 color",
            price:30, 
+           about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
        },
        {
     
@@ -30,6 +33,7 @@ var brozerArr =[
            name2:"Sun Melt Natural Cream Bronzer",
            color:"4 colors",
            price:30,
+           about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
           
        },
        {
@@ -39,6 +43,7 @@ var brozerArr =[
            name2:"Lil' Bronze Duo",
            color: "2 colors",
            price:17,
+           about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
     
            },
            {
