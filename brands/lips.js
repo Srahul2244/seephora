@@ -4,7 +4,7 @@ var lipsobj =[
    name:"Yves Saint Laurent",
    name2:" Rouge Volupté Shine Lipstick Balm",
    color:"29 colors",
-   price:"$22.00 - $39.00",
+   price:22,
 },
 {
 
@@ -12,8 +12,8 @@ var lipsobj =[
        name:"SEPHORA COLLECTION",
        name2:"#LIPSTORIES Lipstick",
        color:"64 colors",
-       price:"$4.00",
-        discount:"$9.00", 
+       price:50,
+        discount:10, 
 },
 {
 
@@ -21,7 +21,7 @@ var lipsobj =[
        name:"Charlotte Tilbury",
        name2:"Matte Revolution Lipstick",
        color:"20 color",
-       price:"$34.00 - $37.00", 
+       price:37, 
    },
    {
 
@@ -30,7 +30,7 @@ var lipsobj =[
        name2:"Power Move Hydrating Soft Matte Lipstick",
        color:"35 colors",
        price:"$17.00",
-       discount:"$28.00", 
+       discount:29, 
    },
    {
 
@@ -38,7 +38,7 @@ var lipsobj =[
        name:"Dior",
        name2:"Rouge Dior Refillable Lipstick",
        color: "50 colors",
-       price:"$39.00 - $50.00",
+       price:39,
 
        },
        {
@@ -47,7 +47,7 @@ var lipsobj =[
            name:"SEPHORA COLLECTION",
            name2:"Cream Lip Stain Liquid Lipstick",
              color:"86 Colors",
-           price:"$3.00 - $15.00", 
+           price:15, 
      },
      {
 
@@ -55,7 +55,7 @@ var lipsobj =[
            name:"Fenty Beauty by Rihanna",
            name2:"Fenty Icon The Fill Semi-Matte Refillable Lipstick",
            color:"10 Colors",
-           price:"$20.00", 
+           price:20, 
    },
       {
 
@@ -63,7 +63,7 @@ var lipsobj =[
            name:"Fenty Beauty by Rihanna",
            name2:"Stunna Lip Paint Longwear Fluid Lip Color",
            color:"8 colors",
-           price:"$18.00 - $26.00", 
+           price:20, 
    },
       {
 
@@ -71,7 +71,7 @@ var lipsobj =[
            name:"Rare Beauty by Selena Gomez",
            name2:"Lip Soufflé Matte Cream Lipstick",
            color:"12 colors",
-           price:"$21.00", 
+           price:21, 
     },
    {
 
@@ -79,8 +79,8 @@ var lipsobj =[
            name:"SEPHORA COLLECTION",
            name2:"Astrology Lip Stories Lipstick",
            color:"12 colors",
-           price:"$$4.00 ", 
-           discount:"$9.00",
+           price:100, 
+           discount:10,
     },
          {
 
@@ -88,7 +88,7 @@ var lipsobj =[
            name:"Anastasia Beverly Hills",
            name2:"Matte & Satin Velvet Lipstick",
            color:"18 colors",
-           price:"$23.00", 
+           price:23, 
      },
   ];
  localStorage.setItem("lipsticObj", JSON.stringify(lipsobj));

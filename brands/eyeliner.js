@@ -4,7 +4,7 @@ var eyelinarobj =[
    name:"stila",
    name2:" Stay All Day® Waterproof Liquid Eye Liner",
    color:"6 colors",
-   price:"$23.00",
+   price:23,
 },
 {
 
@@ -12,7 +12,7 @@ var eyelinarobj =[
        name:"SEPHORA COLLECTION",
        name2:"Retractable Waterproof Eyeliner",
        color:"20 colors",
-       price:"$9.00 - $13.00", 
+       price:10, 
 },
 {
 
@@ -20,7 +20,7 @@ var eyelinarobj =[
        name:"KVD Beauty",
        name2:"Perfect Strokes Universal Volumizing Mascara",
        color:"4 color",
-       price:"$11.00 - $20.00", 
+       price:20, 
    },
    {
 
@@ -28,7 +28,7 @@ var eyelinarobj =[
        name:"Urban Decay",
        name2:"24/7 Glide-On Waterproof Eyeliner Pencil",
        color:"35 colors",
-       price:"$22.00", 
+       price:22, 
    },
    {
 
@@ -36,7 +36,7 @@ var eyelinarobj =[
        name:"SEPHORA COLLECTION",
        name2:"Ultimate Gel Waterproof Eyeliner Pencil",
        color: "22 colors",
-       price:"$13.00", 
+       price:13, 
        },
        {
 
@@ -44,7 +44,7 @@ var eyelinarobj =[
            name:"SEPHORA COLLECTION",
            name2:"12 Hour Contour Pencil Eyeliner",
              color:"26 Colors",
-           price:"$2.00 - $11.00", 
+           price:11, 
      },
      {
 
@@ -52,7 +52,7 @@ var eyelinarobj =[
            name:"SEPHORA COLLECTION",
            name2:"Colorful Eyeshadow & Eyeliner Multi-stick",
            color:"29 Colors",
-           price:"$7.00 - $14.00", 
+           price:14, 
    },
       {
 
@@ -60,7 +60,7 @@ var eyelinarobj =[
            name:"Lancôme",
            name2:"DRAMA LIQUI-PENCIL™ Longwear Eyeliner",
            color:"8 colors",
-           price:"$22.00", 
+           price:22, 
    },
       {
 
@@ -68,7 +68,7 @@ var eyelinarobj =[
            name:"Urban Decay",
            name2:"Heavy Metal Glitter Eyeliner",
            color:"13 colors",
-           price:"$21.00", 
+           price:21, 
     },
    {
 
@@ -76,7 +76,7 @@ var eyelinarobj =[
            name:"SEPHORA COLLECTION",
            name2:"Eyeliner Pencil To Go",
            color:"6 colors",
-           price:"$6.00", 
+           price:6, 
     },
          {
 
@@ -84,7 +84,7 @@ var eyelinarobj =[
            name:"Bobbi Brown",
            name2:"Long-Wear Gel Eyeliner",
            color:"4 colors",
-           price:"$28.00", 
+           price:28, 
      },
   ];
  localStorage.setItem("masacraEyelinar", JSON.stringify(eyelinarobj));

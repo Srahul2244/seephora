@@ -4,7 +4,7 @@ var brozerArr =[
        name:"Rare Beauty by Selena Gomez",
        name2:" Warm Wishes Effortless Bronzer Sticks",
        color:"6 colors",
-       price:"$23.00",
+       price:23,
     },
     {
     
@@ -12,7 +12,7 @@ var brozerArr =[
            name:"MILK MAKEUP",
            name2:"Matte Cream Bronzer Stick",
            color:"2 colors",
-           price:"$21.00",
+           price:21,
            
     },
     {
@@ -21,7 +21,7 @@ var brozerArr =[
            name:" Benefit Cosmetics",
            name2:"Hoola Bronzer",
            color:"6 color",
-           price:"$17.00 - $30.00", 
+           price:30, 
        },
        {
     
@@ -29,7 +29,7 @@ var brozerArr =[
            name:"Saie",
            name2:"Sun Melt Natural Cream Bronzer",
            color:"4 colors",
-           price:"$30.00",
+           price:30,
           
        },
        {
@@ -38,7 +38,7 @@ var brozerArr =[
            name:"Fenty Beauty by Rihanna",
            name2:"Lil' Bronze Duo",
            color: "2 colors",
-           price:"$17.00",
+           price:17,
     
            },
            {
@@ -47,7 +47,7 @@ var brozerArr =[
                name:"MAKEUP BY MARIO",
                name2:"  SoftSculpt® Bronzer",
                  color:"6 Colors",
-               price:"$28.00", 
+               price:28, 
          },
 ];
 localStorage.setItem("broArr", JSON.stringify(brozerArr))

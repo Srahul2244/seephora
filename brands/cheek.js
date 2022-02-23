@@ -4,7 +4,7 @@
         name:"Rare Beauty by Selena Gomez",
         name2:"Soft Pinch Liquid Blush",
         color:"11 colors",
-        price:"$20",
+        price:20,
      },
      {
      
@@ -12,7 +12,7 @@
             name:"NARS",
             name2:"Blush",
             color:"25 colors",
-            price:"$16.00 - $40.00",
+            price:40,
             
      },
      {
@@ -21,7 +21,7 @@
             name:"Stay Vulnerable Melting Cream Blush",
             name2:"Gloss Bomb Heat Universal Lip Luminizer + Plumper",
             color:"5 color",
-            price:"$21.00", 
+            price:21, 
         },
         {
      
@@ -29,7 +29,7 @@
             name:"MILK MAKEUP",
             name2:"Lip + Cheek Cream Blush Stick",
             color:"8 colors",
-            price:"$20.00 - $21.00",
+            price:21,
         },
         {
      
@@ -37,7 +37,7 @@
             name:"NARS",
             name2:"Liquid Blush",
             color: "3 colors",
-            price:"$30.00",
+            price:30,
      
             },
             {
@@ -46,7 +46,7 @@
                 name:"Saie",
                 name2:"Dew Blush Liquid Cheek Blush",
                   color:"4 Colors",
-                price:"$24.00", 
+                price:24, 
           },
           {
      
@@ -54,7 +54,7 @@
                 name:"PATRICK TA",
                 name2:"Major Beauty Headlines - Double-Take Crème & Powder Blush",
                 color:"8 Colors",
-                price:"$34.00", 
+                price:34, 
         },
            {
      
@@ -62,7 +62,7 @@
                 name:"Tower 28 Beauty",
                 name2:"BeachPlease Lip + Cheek Cream Blush",
                 color:"6 colors",
-                price:"$20.00", 
+                price:20, 
         },
            {
      
@@ -70,7 +70,7 @@
                 name:"Fenty Beauty by Rihanna",
                 name2:"Cheeks Out Freestyle Cream Blush",
                 color:"10 colors",
-                price:"$22.00", 
+                price:22, 
          },
         {
      
@@ -78,7 +78,7 @@
                 name:"Dior",
                 name2:"Lip Glow Oil",
                 color:"11 colors",
-                price:"$34.00 - $35.00", 
+                price:35, 
               
          },
               {
@@ -87,7 +87,7 @@
                 name:"MAKEUP BY MARIO",
                 name2:"Soft Pop Powder Blush",
                 color:"5 colors",
-                price:"$24.00", 
+                price:24, 
           },
           {
      
@@ -95,7 +95,7 @@
                 name:"tarte",
                 name2:"Amazonian Clay 12-Hour Blush",
                 color:"14 colors",
-                price:"$15.00 - $29.00", 
+                price:29, 
             },    
             {
             
@@ -103,7 +103,7 @@
                 name:"MAKEUP BY MARIO",
                 name2:"Soft Pop Blush Stick",
                 color:"6 colors",
-                price:"$24.00", 
+                price:24, 
             },
 ];
 localStorage.setItem("cheeksJob", JSON.stringify(blushArr))

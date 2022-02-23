@@ -4,7 +4,7 @@ var lipsData =[
    name:"Fenty Beauty by Rihannar",
    name2:"  Gloss Bomb Universal Lip Luminize",
    color:"6 colors",
-   price:"$13.00 - $20.00",
+   price:20,
 },
 {
 
@@ -12,7 +12,7 @@ var lipsData =[
        name:"Dior",
        name2:"Dior Addict Lip Maximizer Plumping Gloss",
        color:"14 colors",
-       price:"$35.00",
+       price:35,
        
 },
 {
@@ -21,7 +21,7 @@ var lipsData =[
        name:" Fenty Beauty by Rihanna",
        name2:"Gloss Bomb Heat Universal Lip Luminizer + Plumper",
        color:"5 color",
-       price:"$24.00", 
+       price:24, 
    },
    {
 
@@ -29,8 +29,8 @@ var lipsData =[
        name:"Bite Beauty",
        name2:"Power Move Hydrating Soft Matte Lipstick",
        color:"35 colors",
-       price:"$17.00",
-       discount:"$28.00", 
+       price:17,
+       discount:28, 
    },
    {
 
@@ -38,7 +38,7 @@ var lipsData =[
        name:"Tower 28 Beauty",
        name2:"ShineOn Jelly Lip Gloss",
        color: "11 colors",
-       price:"$15.00",
+       price:15,
 
        },
        {
@@ -47,7 +47,7 @@ var lipsData =[
            name:"Rare Beauty by Selena Gomez",
            name2:"  Stay Vulnerable Glossy Lip Balm",
              color:"5 Colors",
-           price:"$18.00", 
+           price:18, 
      },
      {
 
@@ -55,7 +55,7 @@ var lipsData =[
            name:"Fenty Beauty by Rihanna",
            name2:"Fenty Icon The Fill Semi-Matte Refillable Lipstick",
            color:"10 Colors",
-           price:"$20.00", 
+           price:20, 
    },
       {
 
@@ -63,7 +63,7 @@ var lipsData =[
            name:"SEPHORA COLLECTION",
            name2:" Outrageous Plumping Lip Gloss",
            color:"7 colors",
-           price:"$12.00", 
+           price:12, 
    },
       {
 
@@ -71,7 +71,7 @@ var lipsData =[
            name:"Dior",
            name2:"Dior Addict Stellar Lip Gloss",
            color:"18 colors",
-           price:"$32.00", 
+           price:32, 
     },
    {
 
@@ -79,7 +79,7 @@ var lipsData =[
            name:"Dior",
            name2:"Lip Glow Oil",
            color:"11 colors",
-           price:"$34.00 - $35.00", 
+           price:35, 
          
     },
          {
@@ -87,7 +87,7 @@ var lipsData =[
            image:"https://www.sephora.com/productimages/sku/s2514909-main-zoom.jpg?imwidth=630",
            name:"NARS",
            name2:"Afterglow Lip Shine Gloss",
-           price:"$26.00", 
+           price:26, 
      },
   ];
  localStorage.setItem("lipsticAr", JSON.stringify(lipsData));
