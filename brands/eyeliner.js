@@ -59,7 +59,7 @@ var eyelinarobj =[
            name2:"Colorful Eyeshadow & Eyeliner Multi-stick",
            color:"29 Colors",
            price:14, 
-           about:"" 
+           about:"An award-winning, waterproof liquid eyeliner with all-day wear and opaque pigment that creates ultra-precise lines inspired by tattoo artistry." 
    },
       {
 

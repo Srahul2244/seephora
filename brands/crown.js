@@ -39,7 +39,7 @@ var crownaffairobj =[
        name:"Crown Affair",
        name2:"The Scrunchie No. 001 Se",
        price:15,
-       about:"", 
+       about:"An in-shower, post-shower, and all-day detangler for your strands", 
        },
        {
 

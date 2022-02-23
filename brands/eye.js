@@ -52,7 +52,7 @@ var eyeobj =[
            name:"Dior",
            name2:"Diorshow Iconic Overcurl Mascara",
            price:30, 
-           about:"",
+           about:"An award-winning, waterproof liquid eyeliner with all-day wear and opaque pigment that creates ultra-precise lines inspired by tattoo artistry.",
    },
       {
 
@@ -60,7 +60,7 @@ var eyeobj =[
            name:"Armani Beauty",
            name2:"Eyes To Kill Lengthening Mascara",
            price:29, 
-           about:"",
+           about:"An award-winning, waterproof liquid eyeliner with all-day wear and opaque pigment that creates ultra-precise lines inspired by tattoo artistry.",
    },
       {
 

@@ -53,6 +53,7 @@ var brozerArr =[
                name2:"  SoftSculpt® Bronzer",
                  color:"6 Colors",
                price:28, 
+               about:"An all-in-one pressed powder, bronzer, and highlighter to create killer cheekbones and candlelit skin."
          },
 ];
 localStorage.setItem("broArr", JSON.stringify(brozerArr))
