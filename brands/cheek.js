@@ -4,7 +4,7 @@
         name:"Rare Beauty by Selena Gomez",
         name2:"Soft Pinch Liquid Blush",
         color:"11 colors",
-        price:20,
+        price:200,
         about:"A weightless, long-lasting liquid blush that blends and builds beautifully for a soft, healthy flush. Available in matte and dewy finishes.",
      },
      {
@@ -13,7 +13,7 @@
             name:"NARS",
             name2:"Blush",
             color:"25 colors",
-            price:40,
+            price:400,
             about:"A weightless, long-lasting liquid blush that blends and builds beautifully for a soft, healthy flush. Available in matte and dewy finishes.",
             
      },
@@ -23,7 +23,7 @@
             name:"Stay Vulnerable Melting Cream Blush",
             name2:"Gloss Bomb Heat Universal Lip Luminizer + Plumper",
             color:"5 color",
-            price:21, 
+            price:210, 
             about:"A breakthrough, mistake-proof, liquid-like cream blush that melts into a second skin for the most natural-looking wash of soft-focus color.",
         },
         {
@@ -32,7 +32,7 @@
             name:"MILK MAKEUP",
             name2:"Lip + Cheek Cream Blush Stick",
             color:"8 colors",
-            price:21,
+            price:210,
             about:"A compact with two complementary blush formulas that give you full, bold color—guaranteed to turn heads.",
         },
         {
@@ -41,7 +41,7 @@
             name:"NARS",
             name2:"Liquid Blush",
             color: "3 colors",
-            price:30,
+            price:300,
             about:"A multitasking tinted balm for ultra-glowing lips and cheeks—minus the cakiness and harsh lines.",
      
             },
@@ -51,7 +51,7 @@
                 name:"Saie",
                 name2:"Dew Blush Liquid Cheek Blush",
                   color:"4 Colors",
-                price:24, 
+                price:240, 
                 about:"A water-based gel blush with a creamy, blendable formula that gives skin a healthy flush of seamless color.",
           },
           {
@@ -60,7 +60,7 @@
                 name:"PATRICK TA",
                 name2:"Major Beauty Headlines - Double-Take Crème & Powder Blush",
                 color:"8 Colors",
-                price:34, 
+                price:340, 
                 about:"An award-winning powder blush that contains long-wearing Amazonian clay, so pigment looks freshly applied all day.",
         },
            {
@@ -69,7 +69,7 @@
                 name:"Tower 28 Beauty",
                 name2:"BeachPlease Lip + Cheek Cream Blush",
                 color:"6 colors",
-                price:20, 
+                price:200, 
                 about:"This dual-ended blush stick offers sheer, buildable coverage with a dewy finish in a moisturizing formula ideal for all skin types.",
         },
            {
@@ -78,7 +78,7 @@
                 name:"Fenty Beauty by Rihanna",
                 name2:"Cheeks Out Freestyle Cream Blush",
                 color:"10 colors",
-                price:22, 
+                price:220, 
                 about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
          },
         {
@@ -87,7 +87,7 @@
                 name:"Dior",
                 name2:"Lip Glow Oil",
                 color:"11 colors",
-                price:35, 
+                price:350, 
                 about:"A clean, high-pigment, non-greasy, satin-matte blush with a buildable, creamy formula that gives skin a natural flush.",
               
          },
@@ -97,7 +97,7 @@
                 name:"MAKEUP BY MARIO",
                 name2:"Soft Pop Powder Blush",
                 color:"5 colors",
-                price:24, 
+                price:240, 
                 about:"A petal-soft powder Blush with blendable colour and a unique featherlight, silk-velvet finish.",
           },
           {
@@ -106,7 +106,7 @@
                 name:"tarte",
                 name2:"Amazonian Clay 12-Hour Blush",
                 color:"14 colors",
-                price:29, 
+                price:290, 
                 about:"A talc-free, finely-milled, and velvety powder bronzer with a rich, smooth finish, and skin-loving ingredients.",
             },    
             {
