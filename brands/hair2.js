@@ -1,5 +1,6 @@
 var hairOil =[
     {
+        
         image:"https://www.sephora.com/productimages/sku/s2266765-main-zoom.jpg?imwidth=630",
         name:"Olaplex",
         name2:" No. 7 Bonding Hair Oil ",
